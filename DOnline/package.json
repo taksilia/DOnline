@@ -1,0 +1,11 @@
+{
+    "id": "DO",
+    "title": "DOnline",
+    "version": "0.2",
+    "creator": "Taksilia",
+    "description": "Demonstration Online",
+    "dependencies": [
+        "CAPI",
+        "SAPI"
+    ]
+}

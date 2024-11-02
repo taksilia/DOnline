@@ -1,0 +1,7 @@
+{
+    "save-body-settings": true,
+    "components": [
+        "DO:player_animator"
+    ],
+    "hitbox": [ 0.6, 1.8, 0.6 ]
+}
